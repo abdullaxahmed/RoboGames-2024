@@ -1,5 +1,5 @@
 ### RoboGames-2024
-RoboGames is This repository documents the projects completed for the RoboGames 2024 event. 
+
 
 ### Humanoid Stair Climbing Competition
 The competition challenged participants to design and operate humanoid robots capable of effectively climbing a staircase autonomously. The robot that participated in the competition featured a bipedal configuration composed of two legs and a main body. This design allowed for human-like movement and efficient navigation of the staircase.
