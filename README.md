@@ -27,4 +27,4 @@ The competition challenged participants to design and operate humanoid robots ca
 
 
 The humanoid demonstrated efficient performance in climbing the stairs without losing its balance during the climb. 
-[![Watch Full Demo](https://img.shields.io/badge/WATCH%20FULL%20DEMO-GOOGLE%20DRIVE-blue.svg)]([https://drive.google.com/file/d/1234567890abcdefg/view?usp=sharing](https://drive.google.com/drive/folders/1-Qpqs5GKAcVcIxoMB_qGy7afPQ7Av0JU?usp=sharing))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Drive_logo.png" height="20"/> ![Access Folder](https://img.shields.io/badge/ACCESS%20FOLDER-GOOGLE%20DRIVE-blue.svg)](https://drive.google.com/drive/folders/1-Qpqs5GKAcVcIxoMB_qGy7afPQ7Av0JU?usp=sharing)
