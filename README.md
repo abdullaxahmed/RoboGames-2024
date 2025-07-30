@@ -1,5 +1,8 @@
 # RoboGames 2024 Competition Projects
 Welcome to our RoboGames 2024 competition repository! This collection showcases our team's innovative robotics projects that participated in multiple categories at the prestigious RoboGames competition.
+<div align="center">
+  <img src="images/robogames.JPG" width="800"/>
+</div>
 ## Competition Overview
 RoboGames is one of the world's largest robotics competitions, bringing together engineers, students, and robotics enthusiasts from around the globe. Our team participated in multiple categories, demonstrating advanced engineering capabilities and innovative design solutions.
 ## Competitions
